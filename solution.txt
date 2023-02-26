@@ -1,0 +1,2 @@
+Java is a high level programming language Java is one of the most powerful language
+{the=1, most=1, Java=2, a=1, high=1, powerful=1, level=1, one=1, of=1, is=2, language=2, programming=1}
